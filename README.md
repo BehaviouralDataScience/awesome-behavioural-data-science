@@ -50,7 +50,7 @@ Behavioural AI & machine behaviour
 Degrees & university programmes
 
 <p align="center">
-  <img src="assets/degrees-map.png" alt="World map of verified Behavioural Data Science degree programmes, 2026" width="100%">
+  <img src="degrees-map.png" alt="World map of verified Behavioural Data Science degree programmes, 2026" width="100%">
 </p>
 
 
