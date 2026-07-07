@@ -59,32 +59,32 @@ Verified full degree programmes at the intersection of behavioural science and d
 
 | Programme | Institution | Notes |
 |---|---|---|
-| MSc Psychology: Behavioural Data Science | **University of Amsterdam** 🇳🇱 | One of the longest-running dedicated programmes |
-| MSc Cognitive Science & AI: AI for Psychological Research track | **Tilburg University** 🇳🇱 | The closest thing on this list to a proper "behavioural AI" degree |
+| MSc Psychology: Behavioural Data Science | **University of Amsterdam** 🇳🇱 | (https://www.uva.nl/shared-content/programmas/en/masters/psychology-behavioural-data-science/behavioural-data-science.html) |
+| MSc Cognitive Science & AI: AI for Psychological Research track | **Tilburg University** 🇳🇱 | (https://www.tilburguniversity.edu/education/masters-programs/cognitive-science-and-artificial-intelligence)|
 
 ### United Kingdom
 
 | Programme | Institution | Notes |
 |---|---|---|
-| MSc Behavioural and Data Science | **University of Warwick** 🇬🇧 | The world's first programme in Behavioural Data Science; psychology and computer science jointly taught |
-| MSc Behavioural Economics and Data Science | **University of East Anglia** 🇬🇧 | Behavioural economics with a genuine data science spine |
-| MSc Behavioural Science | **London School of Economics** 🇬🇧 | Branded "behavioural science" but strongly quantitative, with substantial AI and emerging-tech content |
-| MSc Behavioural Data Science | **Nottingham Trent University** 🇬🇧 | Data science with psychology through to neuroscience |
+| MSc Behavioural and Data Science | **University of Warwick** 🇬🇧 | (https://warwick.ac.uk/study/postgraduate/courses/msc-behavioural-data-science/)|
+| MSc Behavioural Economics and Data Science | **University of East Anglia** 🇬🇧 | (https://www.uea.ac.uk/course/postgraduate/msc-behavioural-economics-and-data-science) |
+| MSc Behavioural Science | **London School of Economics** 🇬🇧 | (https://www.lse.ac.uk/study-at-lse/graduate/msc-behavioural-science) |
+| MSc Behavioural Data Science | **Nottingham Trent University** 🇬🇧 | (https://www.ntu.ac.uk/course/social-sciences/pg/msc-behavioural-data-science) |
 
 ### North America
 
 | Programme | Institution | Notes |
 |---|---|---|
-| MS Psychology: Data Science in Human Behavior | **University of Wisconsin–Madison** 🇺🇸 | Computational toolkit for behavioural-science graduates |
-| Master of Behavioral and Decision Sciences (MBDS) | **University of Pennsylvania** 🇺🇸 | Decision science, behavioural economics, and networks, with emerging-tech components |
-| MS in Data Science: Behavioral Data Science track | **University of Notre Dame** 🇺🇸 | Behavioural specialisation inside a full data science master's |
-| Behavioral Data Science Graduate Certificate | **Arizona State University** 🇺🇸 | Stackable certificate with a genuine pathway into a larger degree |
+| MS Psychology: Data Science in Human Behavior | **University of Wisconsin–Madison** 🇺🇸 | (https://datascience.psych.wisc.edu/) |
+| Master of Behavioral and Decision Sciences (MBDS) | **University of Pennsylvania** 🇺🇸 | (https://www.lps.upenn.edu/degree-programs/mbds) |
+| MS in Data Science: Behavioral Data Science track | **University of Notre Dame** 🇺🇸 |(https://datascience.nd.edu/masters/curriculum/)|
+| Behavioral Data Science Graduate Certificate | **Arizona State University** 🇺🇸 | (https://degrees.apps.asu.edu/masters-phd/major/ASU00/ASBHDSGRCT/behavioral-data-science-graduate-certificate) |
 
 ### Australia
 
 | Programme | Institution | Notes |
 |---|---|---|
-| Master of Data Science and Decisions: Behavioural specialisation | **UNSW Sydney** 🇦🇺 | Currently the lone Southern Hemisphere programme |
+| Master of Data Science and Decisions: Behavioural specialisation | **UNSW Sydney** 🇦🇺 | (https://www.unsw.edu.au/study/postgraduate/master-of-data-science-and-decisions) |
 
 **One to watch:** UT Austin 🇺🇸 has announced a Behavioral Data Science initiative, including plans for one of the first bachelor's degrees in the field with a master's to follow — not yet enrolling, so not yet on the map.
 
