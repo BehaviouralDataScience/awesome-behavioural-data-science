@@ -94,7 +94,7 @@ Verified full degree programmes at the intersection of behavioural science and d
 
 ## Research centres & groups
 
-- **Behavioural Data Science group, The Alan Turing Institute** (UK) — led by Ganna Pogrebna; the UK national institute's home for BDS research.
+- **Behavioural Data Science group, The Alan Turing Institute** (UK) 
 - *A fuller verified list of labs and institutes (for PhD and research careers) is coming soon.*
 
 ## Datasets & tools
