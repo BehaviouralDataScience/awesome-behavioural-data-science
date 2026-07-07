@@ -2,7 +2,7 @@
 
 > A curated library of books, papers, degrees, courses, datasets, and tools for **Behavioural Data Science (BDS)** and **Behavioural AI** — the interdisciplinary fields that combine behavioural science and data science to understand, predict, and explain human, algorithmic, and systemic behaviour.
 
-Curated by [Prof. Ganna Pogrebna](https://www.gannapogrebna.com) (University of Sydney Business School; The Alan Turing Institute), co-editor of *The Cambridge Handbook of Behavioural Data Science*. Contributions welcome — see [Contributing](#contributing).
+Curated by [Prof. Ganna Pogrebna](https://www.gannapogrebna.com) (Queen's University Belfast and ASPI), co-editor of *The Cambridge Handbook of Behavioural Data Science*. Contributions welcome — see [Contributing](#contributing).
 
 ## Contents
 
