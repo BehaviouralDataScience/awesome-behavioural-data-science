@@ -50,7 +50,7 @@ Behavioural AI & machine behaviour
 Degrees & university programmes
 
 <p align="center">
-  <img src="degrees-map.png" alt="World map of verified Behavioural Data Science degree programmes, 2026" width="100%">
+  <img src="assets/degrees-map.png" alt="World map of verified Behavioural Data Science degree programmes, 2026" width="100%">
 </p>
 
 
@@ -61,4 +61,47 @@ Programme	Institution	Notes
 MSc Psychology: Behavioural Data Science	University of Amsterdam 🇳🇱	One of the longest-running dedicated programmes
 MSc Cognitive Science & AI: AI for Psychological Research track	Tilburg University 🇳🇱	The closest thing on this list to a proper "behavioural AI" degree
 
+United Kingdom
+Programme	Institution	Notes
+MSc Behavioural and Data Science	University of Warwick 🇬🇧	The world's first programme in Behavioural Data Science; psychology and computer science jointly taught
+MSc Behavioural Economics and Data Science	University of East Anglia 🇬🇧	Behavioural economics with a genuine data science spine
+MSc Behavioural Science	London School of Economics 🇬🇧	Branded "behavioural science" but strongly quantitative, with substantial AI and emerging-tech content
+MSc Behavioural Data Science	Nottingham Trent University 🇬🇧	Data science with psychology through to neuroscience
 
+North America
+Programme	Institution	Notes
+MS Psychology: Data Science in Human Behavior	University of Wisconsin–Madison 🇺🇸	Computational toolkit for behavioural-science graduates
+Master of Behavioral and Decision Sciences (MBDS)	University of Pennsylvania 🇺🇸	Decision science, behavioural economics, and networks, with emerging-tech components
+MS in Data Science: Behavioral Data Science track	University of Notre Dame 🇺🇸	Behavioural specialisation inside a full data science master's
+Behavioral Data Science Graduate Certificate	Arizona State University 🇺🇸	Stackable certificate with a genuine pathway into a larger degree
+
+Australia
+Programme	Institution	Notes
+Master of Data Science and Decisions: Behavioural specialisation	UNSW Sydney 🇦🇺	Currently the lone Southern Hemisphere programme
+
+One to watch: UT Austin 🇺🇸 has announced a Behavioral Data Science initiative, including plans for one of the first bachelor's degrees in the field with a master's to follow — not yet enrolling, so not yet on the map.
+
+Short courses & certificates
+
+Coming soon — a verified list of certificates, MOOCs, bootcamps, and professional courses in BDS and Behavioural AI. Watch this space or suggest one.
+
+Research centres & groups
+
+- Behavioural Data Science group, The Alan Turing Institute (UK) — led by Ganna Pogrebna; the UK national institute's home for BDS research.
+- A fuller verified list of labs and institutes (for PhD and research careers) is coming soon.
+
+Datasets & tools
+
+Coming soon — behavioural datasets, experiment platforms, and analysis toolkits. Suggest one.
+
+Ethics & governance
+
+- Weapons of Math Destruction — O'Neil, C. (2016, Crown). How opaque algorithms encode and amplify behavioural harms.
+- The Age of Surveillance Capitalism — Zuboff, S. (2019, PublicAffairs). The political economy of behavioural data extraction.
+- The EU Artificial Intelligence Act — the regulatory frame for behavioural modelling post-2024; see Handbook Chs. 43–44 for pre- and post-AI Act governance of behavioural data science.
+
+Contributing
+
+This is a living document. Know a degree, course, dataset, paper, or centre that belongs here? Open an issue or a pull request — corrections are as welcome as additions. Entries should be verifiable on an official page and genuinely at the intersection of behavioural science and data science/AI (not just three fashionable words arranged like fridge magnets).
+⸻
+<sub>Part of the <a href="https://github.com/BehaviouralDataScience">Behavioural Data Science hub</a>, curated by Prof. Ganna Pogrebna, co-editor of <i>The Cambridge Handbook of Behavioural Data Science</i> (Cambridge University Press, 2026) and author of <i>The Missing B in AI</i> (2025).</sub>
