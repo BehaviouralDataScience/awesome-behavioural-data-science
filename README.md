@@ -53,7 +53,7 @@ Curated by [Prof. Ganna Pogrebna](https://www.gannapogrebna.com) (University of 
   <img src="degrees-map.png" alt="World map of verified Behavioural Data Science degree programmes, 2026" width="100%">
 </p>
 
-Verified full degree programmes at the intersection of behavioural science and data/AI, as of **July 2026**. Maintained from [Where to Get a Degree in Behavioural Data Science](https://www.gannapogrebna.com) by Ganna Pogrebna — read the full post for guidance on choosing between them (in short: the home department determines the programme's personality — check the module list, the programming on-ramp, and who teaches). *Listing is not endorsement. Fees and intake dates change every year — always verify on the university's own page.*
+Verified full degree programmes at the intersection of behavioural science and data/AI, as of **July 2026**. Maintained from [Where to Get a Degree in Behavioural Data Science](https://gannapogrebna.substack.com/p/where-to-get-a-degree-in-behavioural) by Ganna Pogrebna — read the full post for guidance on choosing between them (in short: the home department determines the programme's personality — check the module list, the programming on-ramp, and who teaches). *Listing is not endorsement. Fees and intake dates change every year — always verify on the university's own page.*
 
 ### Mainland Europe
 
